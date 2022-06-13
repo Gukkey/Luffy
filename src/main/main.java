@@ -11,7 +11,6 @@ public class MyBot {
 public static void main(String[]args){
 
         Mono<Void> login = client.withGateway((GatewayDiscordClient gateway) -> Mono.empty());
-
         login.block();
 
         DiscordClient.create("TOKEN")

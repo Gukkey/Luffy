@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbfa0fb3-c3b3-464d-af12-d79a41731167" name="Changes" comment="Base file, bot is not yet created.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gukkey/luffy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655094320823</updated>
-      <workItem from="1655094329269" duration="1061000" />
+      <workItem from="1655094329269" duration="1143000" />
     </task>
+    <task id="LOCAL-00001" summary="Base file, bot is not yet created.">
+      <created>1655095481197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655095481197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
